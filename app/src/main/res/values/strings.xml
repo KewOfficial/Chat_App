@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">chat-app</string>
+    <string name="username_password_empty_error">Username and Password cannot be empty.</string>
+    <string name="incorrect_username_password_error">Incorrect username or password.</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="register_button_label">Register</string>
+    <string name="login_redirect_label">Already have an account? Login</string>
+    <string name="username_exists_error">Username already exists.</string>
+    <string name="registration_failed_error">Registration failed. Please try again.</string>
+    <string name="app_logo">Chat App Logo</string>
+    <string name="login_button_label">Login</string>
+    <string name="new_user_register">New User? Register</string>
+    <string name="error_message">Error Message</string>
+    <string name="send_button_description">Send message</string>
+
+</resources>
